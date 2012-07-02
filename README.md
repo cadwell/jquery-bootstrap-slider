@@ -1,4 +1,8 @@
-#jQuery UI Bootstrap
+# SLIDER ONLY!
+
+------------
+
+##jQuery UI Bootstrap
 
 ##Summary
 
