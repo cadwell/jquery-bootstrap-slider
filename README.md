@@ -1,5 +1,11 @@
 # SLIDER ONLY!
 
+## Please note
+This version pretends to be used with jQuery 1.6.2, if you have bootstrap 2.0 and want to use a newer version of jQuery,
+please head to https://github.com/logicmd/jquery-bootstrap-slider (jQuery 1.8.2 + additional improvements).
+
+Discussion: https://github.com/Xlab/jquery-bootstrap-slider/issues/1
+
 ------------
 
 ##jQuery UI Bootstrap
